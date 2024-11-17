@@ -41,7 +41,7 @@ function Works() {
       title: "Mirta",
       description: "Es una página de comercio digital dedicada a la venta de productos de belleza y cuidado personal, destacando productos exclusivos y estrategias de marketing que buscan atraer más ventas en este sector.",
       tech: ["WordPress", "HTML", "CSS", "JS", "Plugins"],
-      link: "https://mirta.consigueventas.com"
+      link: "https://mirta2.consigueventas.com"
     },
     {
       image: full,
